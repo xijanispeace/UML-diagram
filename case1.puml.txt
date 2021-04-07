@@ -1,0 +1,4 @@
+@startuml
+Customer -> (Use Line application)
+Customer --> (Delivered) : Have enough money.
+@enduml

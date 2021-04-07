@@ -1,0 +1,5 @@
+
+@startuml
+Customer -> (Use Line application)
+Customer --> (Delivered) : Borrow money.
+@enduml
